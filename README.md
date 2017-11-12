@@ -7,7 +7,7 @@ $ npm install -g nodemon
 ```
 but it can also be installed as a dependency in your main directory using
 ```
-npm install --save-dev nodemon
+$ npm install --save-dev nodemon
 ```
 
 Then to setup use 
@@ -23,5 +23,5 @@ $ npm start
 ```
 and in client directory
 ```
-$npm run webpack
+$ npm run webpack
 ```
