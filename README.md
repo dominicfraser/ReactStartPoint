@@ -1,6 +1,6 @@
 > Start point for teaching basic React
 
-###Setup
+### Setup
 It is recommended to install nodemon globally using 
 ```
 $ npm install -g nodemon
@@ -15,3 +15,13 @@ Then to setup use
 $ npm install
 ```
 in both the main and client directories.
+
+### To Run
+In main directory 
+```
+$ npm start
+```
+and in client directory
+```
+$npm run webpack
+```
